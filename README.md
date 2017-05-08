@@ -13,3 +13,4 @@ gradle -version<br/>
 2:安装插件<br/>
 Gradle插件：Buildship Gradle Integration<br/>
 Spring插件：Spring Tool Suite<br/>
+国际化资源文件编辑插件：JInto  http://www.guh-software.de/eclipse/
