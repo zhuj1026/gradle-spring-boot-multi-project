@@ -12,5 +12,10 @@ gradle -version<br/>
 1:下载Eclipse，在官网下载<br/>
 2:安装插件<br/>
 Gradle插件：Buildship Gradle Integration<br/>
+Gradle编辑插件：Minimalist Gradle Editor<br/>
 Spring插件：Spring Tool Suite<br/>
 国际化资源文件编辑插件：JInto  http://www.guh-software.de/eclipse/
+三：安装Sublime<br/>
+1:安装Less2Css插件
+2:安装css和js压缩插件
+npm install -g clean-css uglifycss js-beautify html-minifier uglify-js minjson svgo
