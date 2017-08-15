@@ -14,7 +14,7 @@ gradle -version<br/>
 Gradle插件：Buildship Gradle Integration<br/>
 Gradle编辑插件：Minimalist Gradle Editor<br/>
 Spring插件：Spring Tool Suite<br/>
-国际化资源文件编辑插件：JInto  http://www.guh-software.de/eclipse/
+国际化资源文件编辑插件：JInto  http://www.guh-software.de/eclipse/<br/>
 三：安装Sublime<br/>
 1:安装Less2Css插件<br/>
 2:安装css和js压缩插件<br/>
