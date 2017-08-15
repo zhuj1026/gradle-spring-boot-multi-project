@@ -16,6 +16,6 @@ Gradle编辑插件：Minimalist Gradle Editor<br/>
 Spring插件：Spring Tool Suite<br/>
 国际化资源文件编辑插件：JInto  http://www.guh-software.de/eclipse/
 三：安装Sublime<br/>
-1:安装Less2Css插件
-2:安装css和js压缩插件
+1:安装Less2Css插件<br/>
+2:安装css和js压缩插件<br/>
 npm install -g clean-css uglifycss js-beautify html-minifier uglify-js minjson svgo
